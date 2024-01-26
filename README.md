@@ -1,4 +1,5 @@
 # Video Player
+<img src="/main/screenshot/1.png?raw=true" height="200">
 
 ## Requirments
 
